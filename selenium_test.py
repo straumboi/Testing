@@ -7,6 +7,7 @@ Created on Tue Feb  4 0 9:35:39 2020
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+# added line here
 
 driver = webdriver.Chrome()
 driver.get("https://www.theice.com/marketdata/reports/114")
